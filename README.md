@@ -7,6 +7,23 @@
   
 🌱 Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.   
 
+8 Years of experience in IT – (80% Technical – 20% Team Management). Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes. 
+
+• DevOps-Toolchain - Git, Jenkins, Artifactory, Maven, Bitbucket, Docker, Kubernetes, Atlassian-Tools (JIRA, Confluence), Terraform, Bash, PowerShell, Python, Ansible, Prometheus.
+
+• Cloud Migration (with AWS) – EC2, S3, IAM, VPC, Route 53, RDS, EBS, ELB, AWS Auto Scaling, ECR, ECS, EKS, Lambda, AWS Fargate, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Formation, Secrets Manager, Security Groups, AWS Firewalls, CloudWatch, and CloudTrail.
+
+• Cloud Migration (with Azure) – VM Management, VMSS, Azure Active Directory, Azure Backup, AKS, Container Instance, Autoscaling, Load Balancers, Virtual Network, Azure Firewall, Azure DNS, ARM Templates, and Azure DevOps.
+
+• Containerization - Docker, Docker File, Docker Images, Containers, Troubleshooting 
+
+• Orchestration - Kubernetes, Clusters, Deployments, Networking, Troubleshooting
+
+• OS Platforms - Windows, Linux (Ubuntu, RedHat, CentOS, Debian)
+
+• Virtualization Platforms - Oracle VirtualBox, VMware vSphere ESXi 5.x/4.x
+
+• Web Technologies - HTML, CSS, JavaScript, Bootstrap, WordPress, MySQL
 
 <br/>  
 
