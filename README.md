@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hosanna-david"  />
+![Visitor Count](https://profile-counter.glitch.me/{hosanna-david}/count.svg)
 </div>
 
 ###
