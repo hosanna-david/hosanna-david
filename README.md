@@ -42,11 +42,3 @@
 
 ###
 
-###
-
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/{hosanna-david}/count.svg)
-</div>
-
-###
-
