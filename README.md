@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/hosanna-david/myself/blob/master/Github-banner.png" align="center" style="width: 100%" />
+<img src="[https://github.com/hosanna-david/myself/blob/master/Github-banner.png](https://github.com/hosanna-david/hosanna-david/blob/master/Github-banner.png)" align="center" style="width: 100%" />
 </div> 
 
 ### <div>Hi I'm Hosanna David, DevOps & Cloud Engineer | AWS Certified | Azure Certified 👨‍💻</div>  
