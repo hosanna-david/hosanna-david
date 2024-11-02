@@ -9,7 +9,8 @@
 
 
 ## 🛠 Tools and Technologies  :
-
+Group | Badges
+--- | --- 
 **Languages**  |  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge) ![go](https://img.shields.io/badge/Golang-20232A?logo=go&logoColor=white&style=for-the-badge) ![yaml](https://img.shields.io/badge/YAML-black?logo=yaml&logoColor=white&style=for-the-badge)
 **Version Control** |  ![github](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge) ![bitbucket](https://img.shields.io/badge/bitbucket-02569B?logo=bitbucket&logoColor=white&style=for-the-badge) ![azure-repos](https://img.shields.io/badge/azure_repos-20232A?logo=azure-devops&logoColor=blue&style=for-the-badge) 
 **CI/CD Tools**  |  ![jenkins](https://img.shields.io/badge/jenkins-black?logo=jenkins&logoColor=white&style=for-the-badge) ![github-actions](https://img.shields.io/badge/github_actions-white?logo=github-actions&logoColor=black&style=for-the-badge)
