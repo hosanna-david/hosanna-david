@@ -4,7 +4,7 @@
 
 ### <div>Hi I'm Hosanna David, DevOps & Cloud Engineer | AWS Certified | Azure Certified 👨‍💻</div>  
 ### <div>I Focus On Cloud | Security | DevOps 🚀 - Hire Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosanna-david/)</div> 
-#### 🌱 Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.
+ 🌱 Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.
 
 
 ## 🛠 Tools and Technologies  :
