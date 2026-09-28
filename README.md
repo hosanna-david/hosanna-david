@@ -3,7 +3,7 @@
 </div> 
 
 ### <div>Hi I'm Hosanna David, IAM Engineer | Entra ID | Exchange | Intune | Cloud | Security | Automation | 9+ Yrs | AWS Certified | Azure Certified 👨‍💻</div>  
-### <div>I Focus On Cloud | Security | DevOps 🚀 - Hire Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosanna-david/)</div> 
+### <div>I Focus On Identity | Cloud | Security | Automation 🚀 - Hire Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosanna-david/)</div> 
  🌱 Skilled Cloud, IAM Engineer and hands-on on expertise across AWS and Azure services to optimize performance, automate, enhance security, configuration management, access governance, improving operational reliability, scalable identity and cloud infrastructure solutions.
 
 
