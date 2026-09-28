@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/hosanna-david/hosanna-david/blob/master/Github-banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/hosanna-david/hosanna-david/blob/master/Banner.png" align="center" style="width: 100%" />
 </div> 
 
-### <div>Hi I'm Hosanna David, DevOps & Cloud Engineer | AWS Certified | Azure Certified 👨‍💻</div>  
+### <div>Hi I'm Hosanna David, IAM Engineer | Entra ID | Exchange | Intune | Cloud | Security | Automation | 9+ Yrs | AWS Certified | Azure Certified 👨‍💻</div>  
 ### <div>I Focus On Cloud | Security | DevOps 🚀 - Hire Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosanna-david/)</div> 
- 🌱 Skilled Cloud, DevOps Engineer and hands-on experience coding, scripting, supporting, testing, security, automating, version control and optimizing mission deployments in AWS and Azure, leveraging configuration management, and DevOps processes.
+ 🌱 Skilled Cloud, IAM Engineer and hands-on on expertise across AWS and Azure services to optimize performance, automate, enhance security, configuration management, access governance, improving operational reliability, scalable identity and cloud infrastructure solutions.
 
 
 ## 🛠 Tools and Technologies  :
